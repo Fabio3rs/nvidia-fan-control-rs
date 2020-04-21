@@ -2,4 +2,4 @@
 Learning Rust implementing nvidia fan control for linux
 
 Equivalent to this https://github.com/Fabio3rs/NvidiaLinuxGPUFanControl
-But in Rust Language
+but in Rust Language
